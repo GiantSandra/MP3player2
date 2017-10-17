@@ -53,6 +53,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Hello");
     }
 
+    public void methodToCheckGitCommit2()
+    {
+        System.out.println("Hello");
+    }
 
     private boolean audioSetup(){
         boolean fileCheck = false;
