@@ -23,9 +23,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         buttonStart = (Button) findViewById(R.id.button_audio_start);
-        
+
         // リスナーをボタンに登録2
         // リスナーを2ボタンに登録
+        // リスナーをボタンに登録3
         buttonStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
