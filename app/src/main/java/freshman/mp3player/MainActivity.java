@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         buttonStart = (Button) findViewById(R.id.button_audio_start);
 
-        // リスナーをボタンに登録
+        // リスナーをボタンに登録2
         buttonStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
