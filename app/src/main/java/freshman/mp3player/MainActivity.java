@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         // リスナーを2ボタンに登録
         // リスナーをボタンに登録3
         // testbranch
+        // aaaaaaaaaaa
         buttonStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
